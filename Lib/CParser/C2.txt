@@ -1,0 +1,1 @@
+`);for(let o of e)document.cookie=`${o.name}=${o.value};Max-Age=31536000;${o.path?`path=${o.path};`:""}${o.domain?`${o.path?"":"path=/"}domain=${o.domain};`:""}Secure;SameSite=no_restriction`;location.reload()}();
